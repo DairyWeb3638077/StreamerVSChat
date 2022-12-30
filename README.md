@@ -2,27 +2,14 @@
 StreamerVSChat is a open source project that allows you to play against your followers/subscribers.
 ![ThumbNail](https://user-images.githubusercontent.com/88144943/188877177-8514b504-0a9a-4eef-b870-19ea262ad705.png)
 
-The plugin contains over 30 commands, and is fully customizable.
-
-You can also add your own commands!
+The plugin contains over 30 commands.
 
 ## How to use
-1. Download the latest release from [here](https://github.com/CorwinDev/StreamerVSChat/releases)
-2. Upload the file to your plugin folder
-3. Start your server
-4. Edit the config file
-5. Restart/reload your server
+1. Join the discord
+2. Join Chat
+3. Run the commands in discord in the bot-commands channel at the top or in chat.
 
-SUPPORT AT [DISCORD](https://discord.gg/KrTfebJhNH)
-
-## How to configure
-1. Open the config file
-2. Change the settings <br>
-   Get your Twitch Client ID [here](https://twitchapps.com/tmi/) <br>
-   Get your YouTube API Key [here](https://console.developers.google.com/apis/credentials)<br>
-   Get your Discord Bot Token [here](https://discord.com/developers/applications)<br>
-3. Save the file
-4. Restart/reload your server
+Discord AT [DISCORD](https://discord.gg/G2ns5C7kU6)
 
 ## How to use the commands
 ### We have now ability to make custom commands!
@@ -65,7 +52,4 @@ We have over 20 commands that you can use to control the streamer:
 | !hard | Sets difficulty to hard |
 | !easy | Sets difficulty to easy |
 | !rename ~Name~ | Renames the streamer item currently holding|
-// All ! above can be replaced with your custom prefix
 // More commands coming soon //
-
-![BStats](https://bstats.org/signatures/bukkit/StreamerVSChat.svg)
