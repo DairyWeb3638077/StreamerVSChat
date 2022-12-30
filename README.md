@@ -34,7 +34,7 @@ We have over 20 commands that you can use to control the streamer:
 | !mining or !miningfatique | Gives streamer miningfatigue | 
 | !hunger | Gives streamer hunger |
 | !fly or !levitate | Lets the streamer fly |
-| jumpboost | Gives streamer jumpboost effect |
+| !jumpboost | Gives streamer jumpboost effect |
 | !feed | Feeds the streamer |
 | !heal | Heals the player |
 | !randomeffect or !randompoison | Gives streamer random poison |
