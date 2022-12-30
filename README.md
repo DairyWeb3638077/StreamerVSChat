@@ -12,8 +12,6 @@ The plugin contains over 30 commands.
 Discord AT [DISCORD](https://discord.gg/G2ns5C7kU6)
 
 ## How to use the commands
-### We have now ability to make custom commands!
-For more information, check out the [wiki](https://github.com/CorwinDev/StreamerVSChat/wiki#custom-commands-setup)
    
 We have over 20 commands that you can use to control the streamer:
 | Command | Description |
